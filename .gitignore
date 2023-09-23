@@ -1,2 +1,8 @@
+# binary
+bot
+
+# config
 .env
+
+# additional scripts
 scripts/
