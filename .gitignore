@@ -6,3 +6,6 @@ bot
 
 # additional scripts
 scripts/
+
+# other
+.DS_Store
